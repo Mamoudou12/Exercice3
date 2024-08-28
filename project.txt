@@ -1,3 +1,7 @@
 - Étape 1: Initialisation du projet
-- Étape 2: Planification du projet
-- Test
+- Étape 2: Exécution
+- Étape 3: Déploiement
+- Étape 4: Planification rapide
+- Étape 5: Planification du projet
+- Étape 6: Planification du projet
+ 
