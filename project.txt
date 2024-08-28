@@ -1,3 +1,4 @@
 - Étape 1: Initialisation du projet
-- Étape 2: Planification
 - Étape 3: Exécution
+- Étape 4: Déploiement
+- Étape 4: Planification rapide
